@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **npurnama51@gmail.com**
 
-- ⚡ Fun fact **Go...Go...Go**
+- ⚡ **Go...Go...Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
