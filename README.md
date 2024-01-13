@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Natasya Purnama</h1>
+<h1 align="center">Hi 👋, I'm Natasya Chesa Purnama</h1>
 <h3 align="center">Information Systems Student at Trunojoyo University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natasyapurnama&label=Profile%20views&color=0e75b6&style=flat" alt="natasyapurnama" /> </p>
 
 - 📫 How to reach me **npurnama51@gmail.com**
 
-- ⚡ Fun fact **I think........**
+- ⚡ Fun fact **Go...Go...Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
