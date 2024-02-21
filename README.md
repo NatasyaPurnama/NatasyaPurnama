@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natasya Purnama</h1>
 <h3 align="center">Information Systems Student at Trunojoyo University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natasyapurnama&label=Profile%20views&color=0e75b6&style=flat" alt="natasyapurnama" /> </p>
 
 - 📫 How to reach me **npurnama51@gmail.com**
 
