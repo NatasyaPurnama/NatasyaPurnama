@@ -67,7 +67,7 @@
 ---
 
 <h3 align="center">GitHub Stats</h3>
-<table>
+<table align="center">
   <tr>
     <td>
       <div align="center">
