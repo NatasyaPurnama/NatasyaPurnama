@@ -70,14 +70,19 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=natasyapurnama&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=natasyapurnama&theme=material-palenight" alt="GitHub Streak"/>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=natasyapurnama&show_icons=true&theme=tokyonight&hide_border=true" width="300" height="150" alt="GitHub Stats"/>
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=natasyapurnama&theme=material-palenight&hide_border=true" width="300" height="150" alt="GitHub Streak"/>
+      </div>
     </td>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natasyapurnama&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=ffffff" alt="Most Used Languages"/>
+      <div align="center">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natasyapurnama&theme=tokyonight&hide_border=true" width="300" height="300" alt="Top Languages Used by Natasyapurnama"/>
+      </div>
     </td>
   </tr>
 </table>
+
 
 ---
