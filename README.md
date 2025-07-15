@@ -67,11 +67,17 @@
 ---
 
 <h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natasyapurnama&show_icons=true&theme=tokyonight&hide_border=true" alt="Natasya's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natasyapurnama&theme=material-palenight" alt="Natasya's GitHub Streak"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=natasyapurnama&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=natasyapurnama&theme=material-palenight" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natasyapurnama&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 ---
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natasyapurnama&show_icons=true&locale=en&layout=compact" alt="natasyapurnama" /></p>
